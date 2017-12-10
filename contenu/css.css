@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 0vh;
+    background-color: rgba(255, 255, 255, 0.5);
+    z-index: 25;
+}
+
+#map {
+    width: 100vw;
+    height: 100vh;
+}
