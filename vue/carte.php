@@ -18,7 +18,7 @@
             <!-- placer le code de ce qui sera au dessus de la carte -->
         </div>
         <div id="map"></div>
-        <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsfoXA-mwUT7PsZADCSNoD6UruZP3gI74&callback=initMap" async defer></script>-->
+        <script type="text/javascript" src="../contenu/js/ajax.js"></script>
         <script type="text/javascript" src="../contenu/js/map.js"></script>
     </body>
 </html>
